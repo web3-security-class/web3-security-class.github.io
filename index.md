@@ -83,10 +83,10 @@ Extra Credit Bounty Items:
 
 
 
-Course number
-: CIS 700 - Web3.0 Security
+Course title
+: CIS 7000: Security Analysis of Web3.0 Applications
 
-Prerequeisites
+Prerequisites
 : Extensive programming experience
 : Ability to independently build/run software tools in a UNIX-like environment
 : Mathematical maturity to read advanced technical papers
@@ -94,7 +94,7 @@ Prerequeisites
 Instructor
 : [Mayur Naik](https://www.cis.upenn.edu/~mhnaik/)
 
-Teaching Assistans
+Teaching Assistants
 : [Elizabeth Dinella](https://www.seas.upenn.edu/~edinella/)
 
 Discussion Forum
