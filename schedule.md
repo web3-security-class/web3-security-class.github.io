@@ -149,7 +149,7 @@ The quiz covers:
 <!-- Display lecture info  -->
 {% if is_lecture_day == true %}
 {% assign displyed_lecture_info = false %}
-{% for lecture in site.data.lectures-fall-2022 %}
+{% for lecture in site.data.lectures %}
 {% capture lecture_date %}{{lecture.date | date: "%Y-%m-%d"}}{% endcapture %}
 
 {% if lecture_date == curr_date %}

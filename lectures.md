@@ -22,7 +22,7 @@ The lecture schedule will be updated as the term progresses.
     </tr>
   </thead>
   <tbody>
-    {% for lecture in site.data.lectures-fall-2022 %}
+    {% for lecture in site.data.lectures %}
 
     <!-- Create a HTML anchor for the most recent lecture -->
     {% capture lecture_date %}{{lecture.date | date: '%s'}}{% endcapture %}
