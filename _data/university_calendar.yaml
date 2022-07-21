@@ -4,7 +4,11 @@
   type: no_lecture
 - 
   date: 2022-9-13
-  title: Drop Period Ends
+  title: Drop Period ends
+  type: university_calendar
+-
+  date: 2022-10-06
+  title: Fall Term Break begins
   type: university_calendar
 -
   date: 2022-10-28
@@ -16,9 +20,5 @@
   type: university_calendar
 -
   date: 2022-11-23
-  title: Thursday-Friday schedule
+  title: Thursday-Friday schedule (Thanksgiving)
   type: no_lecture
--
-  date: 2022-12-12
-  title: Last day of classes
-  type: university_calendar

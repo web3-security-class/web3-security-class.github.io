@@ -17,10 +17,7 @@ Below, you'll find links to pre-recorded lectures. You can also <a href="https:/
 <!-- End create a HTML anchor for the most recent module -->
 
 
-
-
 {% for module in site.data.modules %}
-
 
 <!-- Create a HTML anchor for the most recent module -->
 {% capture module_start_date %}{{module.start_date | date: '%s'}}{% endcapture %}
