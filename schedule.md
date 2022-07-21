@@ -151,12 +151,31 @@ The quiz covers:
 {% assign displyed_lecture_info = false %}
 {% for lecture in site.data.lectures-fall-2022 %}
 {% capture lecture_date %}{{lecture.date | date: "%Y-%m-%d"}}{% endcapture %}
+{% capture recording %}{{lecture.recording}}{% endcapture %}
+{% capture slides %}{{lecture.slides}}{% endcapture %}
 
-{% if lecture_date == curr_date %}
+{% if lecture_date == curr_date and recording != null and recording != "" and slides != null and slides != "" %}
 <tr><td>{{ lecture_date | date: '%a, %b %-d, %Y' }}</td><td><span markdown="1">{{lecture.title}} [[recording]]({{lecture.recording}}) [[slides]](slides/{{slides}})</span></td></tr>
 {% assign displyed_lecture_info = true %}
+
+{% elsif lecture_date == curr_date and slides != null and slides != "" %}
+<tr><td>{{ lecture_date | date: '%a, %b %-d, %Y' }}</td><td><span markdown="1">{{lecture.title}} [[slides]](slides/{{slides}})</span></td></tr>
+{% assign displyed_lecture_info = true %}
+
+{% elsif lecture_date == curr_date and recording != null and recording != "" %}
+<tr><td>{{ lecture_date | date: '%a, %b %-d, %Y' }}</td><td><span markdown="1">{{lecture.title}} [[recording]]({{lecture.recording}}) </span></td></tr>
+{% assign displyed_lecture_info = true %}
+
+{% elsif lecture_date == curr_date%}
+<tr><td>{{ lecture_date | date: '%a, %b %-d, %Y' }}</td><td><span markdown="1">{{lecture.title}} </span></td></tr>
+{% assign displyed_lecture_info = true %}
+
+
 {% endif %}
 {% endfor %}
+
+
+
 
 
 <!-- Placeholder if no lecture exists in the YAML -->
