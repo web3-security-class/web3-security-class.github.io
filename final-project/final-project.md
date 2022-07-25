@@ -49,7 +49,7 @@ You can download the materials for this assignment here:
 
 
 
-Final Project [100 points]
+Final Project [500 points]
 =============================================================
 
 Final projects will be done in groups of 2-3 (depending on course size).
