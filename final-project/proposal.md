@@ -1,10 +1,10 @@
 ---
 layout: default
 img: eth-prism.webp
-title: Final Project
+title: Final Project Proposal
 active_tab: final-project
-release_date: 2022-11-15
-due_date: 2022-12-06 23:59:00EDT
+release_date: 2022-11-09
+due_date: 2022-11-15 23:59:00EDT
 materials:
 ---
 
@@ -49,7 +49,7 @@ You can download the materials for this assignment here:
 
 
 
-Final Project [500 points]
+Final Project Proposal [500 points]
 =============================================================
 
 Final projects will be done in groups of 2-3 (depending on course size).
@@ -61,5 +61,4 @@ Final project ideas are likely to fall in one of the following categories:
 3. Develop an idea for a new application of program analysis for Web 3.0 (e.g., analytics) and develop a prototype.
 4. Implement a specific (i.e., provided by instructors) established (i.e., non-researchy) technique/idea in the course's scope.
     - Apply AFL fuzzer to Solidity smart contracts
-
 

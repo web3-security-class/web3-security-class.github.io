@@ -129,7 +129,7 @@ The quiz covers:
 
 <!-- Check for homework due dates -->
 {% for page in site.pages %}
-{% if page.active_tab == "homework" %}
+{% if page.active_tab == "homework" or page.active_tab == "final-project" %}
 
 {% capture hw_due_date %}{{ page.due_date | date: "%Y-%m-%d"}}{% endcapture %}
 

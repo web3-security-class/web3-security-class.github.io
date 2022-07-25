@@ -108,7 +108,7 @@ Prerequisites
 
 <br>
 Discussion Forum
-: Piazza (Link TBD)
+: Discord (Contact Elizabeth for the link)
 
 <br>
 Lecture Coordinates
