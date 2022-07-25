@@ -90,6 +90,7 @@ Instructor
 
 Teaching Assistants
 : [Elizabeth Dinella](https://www.seas.upenn.edu/~edinella/)
+: [Vikramaditya Singh](https://www.linkedin.com/in/vikramaditya-s)
 
 Overview
 : Web3.0 refers to a future World Wide Web based on blockchain technology. The behavior of transactions are specified through programs called smart contracts. Smart contracts are often security critical as they hold funds. How can we make smart contracts more secure, bug free, and trustworthy? In this course we will learn various techniques for program security and how they apply to the Web3.0 domain.  <br> The fundamentals of this course have roots in program analysis, testing, and formal verification. The advent of Web3.0 provides an exciting new application for these techniques.  Smart contracts often hold funds and are frequent surfaces of attack. The cost of a bug in the Web3.0 domain is often massive and difficult to revert. In this course we will learn the foundations of program analysis while getting hands on experience in finding bugs and verifying correctness of smart contracts.

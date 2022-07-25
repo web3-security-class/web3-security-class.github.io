@@ -5,9 +5,12 @@ active_tab: recordings
 ---
 
 
+<!--
 <div class="alert alert-info">
 Below, you'll find links to pre-recorded lectures. You can also <a href="https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=82b51ccf-a22c-44fb-9582-ad99000835ae">find recordings of the live lectures from this semester on Panoto</a>.  You don't have to watch both sets of recordings - you can pick either the pre-recorded lectures or the live lectures. 
 </div>
+-->
+
 
 
 

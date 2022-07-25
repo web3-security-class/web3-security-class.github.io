@@ -1,13 +1,12 @@
 ---
 layout: default
-img: hacker.png
-caption: You will act as a web3 hacker in this assignment
-title: Homework 2 - Vulnerability Exploitation
+img: chess-puzzle.png
+img_link: https://www.explainxkcd.com/wiki/index.php/1002:_Game_AIs
+title: Final Project
 active_tab: homework
-release_date: 2022-09-19
-due_date: 2022-10-04 23:59:00EDT
+release_date: 2022-11-15
+due_date: 2022-12-10 23:59:00EDT
 materials:
-submission_link: 
 ---
 
 <!-- Check whether the assignment is ready to release -->
@@ -51,8 +50,16 @@ You can download the materials for this assignment here:
 
 
 
-Homework 2: Exploiting Vulnerabilities like a Hacker [100 points]
+Final Project [100 points]
 =============================================================
 
-## Instructions
+Final projects will be done in groups of 2-3 (depending on course size).
+
+
+Final project ideas are likely to fall in one of the following categories:
+1. Develop and prototype a new technique for security analysis of smart contract
+2. Adapt existing technique from Web2.0 security to smart contracts and develop a prototype
+3. Develop an idea for a new application of program analysis for Web 3.0 (e.g., analytics) and develop a prototype.
+4. Implement a specific (i.e., provided by instructors) established (i.e., non-researchy) technique/idea in the course's scope.
+
 

@@ -1,17 +1,13 @@
 ---
 layout: default
-img: python.jpg
+img: solidity.jpeg
 img_link: http://xkcd.com/353/
-caption: Hello world!
-title: CIS 521 Homework 1 "Python Skills"
+caption: Solidity - the smart contract programming language
+title: Homework 1 - Programming in Solidity
 active_tab: homework
-release_date: 2021-08-29
-due_date: 2021-09-14 23:59:00EDT
+release_date: 2022-09-07
+due_date: 2022-09-20 23:59:00EDT
 materials:
-    - 
-        name: skeleton file
-        url: homework1.py 
-submission_link: https://www.gradescope.com/
 ---
 
 <!-- Check whether the assignment is ready to release -->
@@ -19,7 +15,7 @@ submission_link: https://www.gradescope.com/
 {% capture release_date %}{{page.release_date | date: '%s'}}{% endcapture %}
 {% if release_date > today %} 
 <div class="alert alert-danger">
-Warning: this assignment is out of date.  It may still need to be updated for this year's class.  Check with your instructor before you start working on this assignment.
+Warning: this assignment is under construction.  Check with your instructor before you start working on this assignment.
 </div>
 {% endif %}
 <!-- End of check whether the assignment is up to date -->
@@ -52,13 +48,12 @@ You can download the materials for this assignment here:
 {% endif %}
 
 
-<div class="alert alert-info" markdown="span">
-Links to tutorials and other Python resources are posted on the [schedule page](/lectures.html) in the Python Review parts.</div>
+<!-- <div class="alert alert-info" markdown="span"> -->
 
-
-Homework 1: Python Skills [100 points]
+Homework 1: Programming in Solidity [100 points]
 =============================================================
 
+{% comment %}
 ## Instructions
 
 In this assignment, you will answer some conceptual questions about Python and write a collection of basic algorithms and data structures.
@@ -524,3 +519,4 @@ In this section, you are allowed to use external python packages which are widel
 2. **[1 points]** Which aspects of this assignment did you find most challenging? Were there any significant stumbling blocks?
 
 3. **[1 points]** Which aspects of this assignment did you like? Is there anything you would have changed?
+{% endcomment %}

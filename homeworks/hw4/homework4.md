@@ -1,13 +1,13 @@
 ---
 layout: default
-img: hacker.png
-caption: You will act as a web3 hacker in this assignment
-title: Homework 2 - Vulnerability Exploitation
+img: manticore.png
+img_link: https://github.com/trailofbits/manticore
+caption: The Manticore Logo
+title: HW4 - Symbolic Execution with Manticore
 active_tab: homework
-release_date: 2022-09-19
-due_date: 2022-10-04 23:59:00EDT
-materials:
-submission_link: 
+release_date: 2022-10-12
+due_date: 2022-10-18 23:59:00EDT
+
 ---
 
 <!-- Check whether the assignment is ready to release -->
@@ -51,8 +51,22 @@ You can download the materials for this assignment here:
 
 
 
-Homework 2: Exploiting Vulnerabilities like a Hacker [100 points]
+Homework 4: Symbolic Execution with Manticore [100 points]
 =============================================================
 
-## Instructions
+#### Learning Goals:
+Gain an...
+1. Ability to run and configurate a real symbolic execution engine to find bugs in smart contracts.
+2. Understanding of the limitations of Manticore and an understanding of the limitations of symbolic execution.
+3. Understanding of the benefits and utility of a symbolic execution tool.
+<br>
+
+#### Suggested Readings
+1. [Manticore: A User-Friendly Symbolic Execution Framework for Binaries and Smart Contracts](https://arxiv.org/pdf/1907.03890.pdf)
+2. [Automated Whitebox Fuzz Testing](https://patricegodefroid.github.io/public_psfiles/ndss2008.pdf)
+
+<br>
+<br>
+
+
 

@@ -1,13 +1,13 @@
 ---
 layout: default
-img: hacker.png
-caption: You will act as a web3 hacker in this assignment
-title: Homework 2 - Vulnerability Exploitation
+img: scribble.png
+img_link: https://github.com/ConsenSys/scribble
+caption: The Scribble Logo
+title: HW5 - Annotations and Instrumentation with Scribble
 active_tab: homework
-release_date: 2022-09-19
-due_date: 2022-10-04 23:59:00EDT
-materials:
-submission_link: 
+release_date: 2022-10-19
+due_date: 2022-10-25 23:59:00EDT
+
 ---
 
 <!-- Check whether the assignment is ready to release -->
@@ -51,8 +51,7 @@ You can download the materials for this assignment here:
 
 
 
-Homework 2: Exploiting Vulnerabilities like a Hacker [100 points]
+Homework 5: Annotations and Instrumentation with Scribble [100 points]
 =============================================================
 
-## Instructions
 
