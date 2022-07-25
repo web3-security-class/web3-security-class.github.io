@@ -69,8 +69,8 @@ Accounts are the portion of the EVM state which hold ether.
 > "An Ethereum account is an entity with an ether (ETH) balance that can send transactions on Ethereum."
 
 There are two types of accounts:
-1. Externally Owned Accounts (EOAs) - This is the type of account you will create in this assignment. They only have the ability to send and recieve transactions. 
-2. Smart Contracts - Smart contracts are executable programs that run on the Ethereum blockchain. They are an account in that they hold a balance and can send and recieve transactions. Smart contracts can define more complex functionality for transactions. For example, a smart contract can define an auction, but an EOA can only send transactions to interact with that auction.
+1. Externally Owned Accounts (EOAs) - This is the type of account you will create in this assignment. They only have the ability to send and receive transactions. 
+2. Smart Contracts - Smart contracts are executable programs that run on the Ethereum blockchain. They are an account in that they hold a balance and can send and receive transactions. Smart contracts can define more complex functionality for transactions. For example, a smart contract can define an auction, but an EOA can only send transactions to interact with that auction.
 
 Both externally owned accounts and smart contracts have the ability to interact with other smart contracts.
 

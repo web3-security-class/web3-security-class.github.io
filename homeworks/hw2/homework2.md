@@ -54,5 +54,33 @@ You can download the materials for this assignment here:
 Homework 2: Exploiting Vulnerabilities like a Hacker [100 points]
 =============================================================
 
+In this assignment you will act as a hacker to exploit vulnerabilities in smart contracts. 
+
+#### Learning Goals:
+In this assignment you will learn..
+1. Classes of vulnerabilities and how to exploit them
+2. Refine your skills for spotting vulnerabilities in the wild
+3. Increased familiarity with interacting with deployed smart contracts
+
+<br>
+
 ## Instructions
+For each of the following deployed course smart contracts, there is a `winner` mapping. 
+To get points for that contract: 
+1. Study the contract manually
+2. Find the vulnerability
+3. Exploit the vulnerability and add yourself to the `winner` data structure. 
+4. Check that you are indeed a winner by inspecting the `winner` data structure.
+5. Record the series of calls you made for the exploit.
+
+Adding yourself to the winner mapping simulates an escalation of privileges or transfer of funds in a real world smart contract.
+
+**Contracts to exploit:**
+TBD
+
+<br>
+### What to submit
+For this assignment, submit a text file or pdf with the calls you made to exploit each vulnerability. 
+Grading will also be based on who is in the winner mapping at the time this assignment is due. 
+
 
