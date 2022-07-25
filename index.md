@@ -6,7 +6,7 @@ active_tab: main_page
 ---
 
 <div class="alert alert-info" markdown="1">
-This course will be capped at 30 students. We welcome a mix of upper-level undergrads, Masters, and PhD students. Please answer the waitlist questions to join.
+This course will be capped at 30 students. We welcome a mix of undergrads, Masters, and PhD students. Please answer the waitlist questions to join.
 </div>
 
 
@@ -82,7 +82,7 @@ Extra Credit Bounty Items:
 -->
 
 
-Course Title
+### Course Title
 : CIS 7000: Web3.0 Security
 
 Instructor
@@ -98,7 +98,7 @@ Overview
 
 <br>
 Format
-: The course will include a combination of lectures, student presentations of technical papers, group assignments, a team final project, and guest lectures by experts in academia, startups, and industry research labs. Each lecture will include technical details about classical analysis techniques and their applications in Web3.0.  The assignments will provide hands-on experience “breaking” smart contracts and exploiting vulnerabilities with a variety of analysis tools. Sample final projects may explore: large-scale systematic empirical studies, extending existing analysis tools for smart contracts, etc.
+: The course will include a combination of lectures, homework assignments, a team final project, and guest lectures by experts in academia, startups, and industry research labs. Each lecture will include technical details about classical analysis techniques and their applications in Web3.0.  The assignments will provide hands-on experience “breaking” smart contracts and exploiting vulnerabilities with a variety of analysis tools. 
 
 <br>
 Prerequisites
