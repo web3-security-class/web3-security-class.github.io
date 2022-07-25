@@ -1,9 +1,8 @@
 ---
 layout: default
-img: chess-puzzle.png
-img_link: https://www.explainxkcd.com/wiki/index.php/1002:_Game_AIs
+img: eth-prism.webp
 title: Final Project
-active_tab: homework
+active_tab: final-project
 release_date: 2022-11-15
 due_date: 2022-12-10 23:59:00EDT
 materials:
