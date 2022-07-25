@@ -17,6 +17,7 @@ This page contains relevent links to tools, papers, and other useful resources.
 
 ##### Learning Resources
 1. [What is Ethereum](https://ethereum.org/en/what-is-ethereum/)
+2. [A Generational Shift in Technology: Remarks on Decentralized Computing by Dan Boneh (Stanford)](https://www.youtube.com/watch?v=x551k1YJdDY&ab_channel=DFINITY)
 
 
 ### 2. Solidity Programming
@@ -28,8 +29,9 @@ This page contains relevent links to tools, papers, and other useful resources.
 4. [OpenZeppelin Contracts Wizard](https://wizard.openzeppelin.com/)
 
 ##### Learning Resources
-1. [Hardhat Tutorial](https://www.youtube.com/watch?v=9Qpi80dQsGU&ab_channel=EatTheBlocks)
-
+1. [Solidity in 100 seconds](https://www.youtube.com/watch?v=kdvVwGrV7ec&ab_channel=Fireship)
+2. [Hardhat Tutorial](https://www.youtube.com/watch?v=9Qpi80dQsGU&ab_channel=EatTheBlocks)
+3. [Solidity 0.8 features tutorial](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
 
 ### 3. Vulnerabilities
 
