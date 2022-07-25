@@ -54,12 +54,9 @@ Final Project [500 points]
 
 Final projects will be done in groups of 2-3 (depending on course size).
 
-
 Final project ideas are likely to fall in one of the following categories:
-1. Develop and prototype a new technique for security analysis of smart contract
+1. Implement a specific (i.e., provided by instructors) established existing technique/idea in the course's scope.
+    - Example: apply AFL fuzzer to Solidity smart contracts
 2. Adapt existing technique from Web2.0 security to smart contracts and develop a prototype
-3. Develop an idea for a new application of program analysis for Web 3.0 (e.g., analytics) and develop a prototype.
-4. Implement a specific (i.e., provided by instructors) established (i.e., non-researchy) technique/idea in the course's scope.
-    - Apply AFL fuzzer to Solidity smart contracts
-
-
+3. Develop and prototype a new technique for security analysis of smart contract
+4. Develop an idea for a new application of program analysis for Web 3.0 (e.g., Web3 data analytics) and develop a prototype.

@@ -115,9 +115,9 @@ Teaching Assistants
 	- manually expose various types of vulnerabilities in example smart contracts 
 	- use analysis tools (e.g., fuzzer, symbolic executor, static analyzer, program instrumenter), which are used widely in industry, to expose those vulnerabilities automatically
 - *Final project* will account for half of the course's total credit. It will be one of the following types:
-	- Develop and prototype a new technique for security analysis of smart contract
+	- Implement a specific (i.e., provided by instructors) established technique/idea in the course's scope.
 	- Adapt existing technique from Web2.0 security to smart contracts and develop a prototype
+	- Develop and prototype a new technique for security analysis of smart contract
 	- Develop an idea for a new application of program analysis for Web 3.0 (e.g., Web3 data analytics) and develop a prototype.
-	- Implement a specific (i.e., provided by instructors) established (i.e., non-researchy) technique/idea in the course's scope.
 - *Guest lectures* will be delivered by experts in academia, startups, and industry research labs. 
 
