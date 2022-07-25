@@ -51,7 +51,7 @@ You can download the materials for this assignment here:
 
 
 
-Homework 2: Exploiting Vulnerabilities like a Hacker [100 points]
+Homework 2: Exploiting Vulnerabilities [100 points]
 =============================================================
 
 In this assignment you will act as a hacker to exploit vulnerabilities in smart contracts. 

@@ -68,5 +68,23 @@ Gain an...
 <br>
 <br>
 
+## Instructions
+For each of the deployed course smart contracts, attempt to find the vulnerability by running Manticore. 
+Use your knowledge of the vulnerabilities from the previous homeworks.
+If Manticore can't find the bug out of the box, don't give up! Attempt to modify the configuration, or even transform the source of the smart contract.
 
+For each of the contracts, report the following:
+1. Did Manticore find the bug? Y/N
+    - If Yes:
+        -  what was the time taken?
+        -  list the transaction trace Manticore found to hit the bug. Was this the same way you manually exploited the bug in HW2? Was this the same trace Echidna found in HW3?
+    - If No, why not? Is this a limitation of the Manticore tool or a fundamental limitation of randomized testing? 
 
+2. List any modifications you made to the config file or source, and report the effect.
+
+<br>
+### What to Submit 
+1. PDF or text file with the report detailed above.
+2. Answer the following short answer questions:  (Only 2-3 sentence response for each)
+    - What are the advantages of symbolic execution compared to manual auditing and fuzzing?
+    - What are the limitations of symbolic execution?
