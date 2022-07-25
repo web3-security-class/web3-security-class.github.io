@@ -3,7 +3,7 @@ layout: default
 img: slither.png
 img_link: https://github.com/crytic/slither
 caption: The Slither Logo
-title: HW7 - Constraint Based Analysis
+title: HW7 - Constraint Based Analysis with Gigahorse
 active_tab: homework
 release_date: 2022-11-02
 due_date: 2022-11-08 23:59:00EDT

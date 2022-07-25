@@ -82,9 +82,16 @@ Extra Credit Bounty Items:
 -->
 
 
-### Course Title
-: CIS 7000: Web3.0 Security
+### CIS 700 - Web3.0 Security
 
+Mirroring the shift from desktop applications to Internet-based distributed applications that began over two
+decades ago, computing stands at the cusp of another shift, from distributed to decentralized applications.
+Such applications, commonly called smart contracts, are programs stored and executed on blockchains.
+They hold the potential to streamline the management of digital assets in diverse use-cases with wide-ranging
+economic and societal ramifications, including auctions, financial contracts, elections, trading
+platforms, and permission management.
+
+<br>
 Instructor
 : [Mayur Naik](https://www.cis.upenn.edu/~mhnaik/)
 
@@ -92,33 +99,16 @@ Teaching Assistants
 : [Elizabeth Dinella](https://www.seas.upenn.edu/~edinella/)
 : [Vikramaditya Singh](https://www.linkedin.com/in/vikramaditya-s)
 
-<br> 
-Overview
-: Web3.0 refers to a future World Wide Web based on blockchain technology. The behavior of transactions are specified through programs called smart contracts. Smart contracts are often security critical as they hold funds. **How can we make smart contracts more secure, bug free, and trustworthy?** In this course we will learn various techniques for program security and how they apply to the Web3.0 domain.  <br> The fundamentals of this course have roots in program analysis, testing, and formal verification. The advent of Web3.0 provides an exciting new application for these techniques.  Smart contracts often hold funds and are frequent surfaces of attack. The cost of a bug in the Web3.0 domain is often massive and difficult to revert. In this course we will learn the foundations of program analysis while getting hands on experience in finding bugs and verifying correctness of smart contracts.
-
-<br>
-Format
-: The course will include a combination of lectures, homework assignments, a team final project, and guest lectures by experts in academia, startups, and industry research labs. Each lecture will include technical details about classical analysis techniques and their applications in Web3.0.  The assignments will provide hands-on experience “breaking” smart contracts and exploiting vulnerabilities with a variety of analysis tools. 
-
-<br>
-Prerequisites
-: Extensive programming experience
-: Ability to independently build/run software tools in a UNIX-like environment
-: Mathematical maturity to read advanced technical papers
-
-<br>
-Discussion Forum
-: Discord (Contact Elizabeth for the link)
-
-<br>
-Lecture Coordinates
-: Monday/Wednesday 1:45-3:15pm ET
-
-<br>
-Office Hours 
-: TBD 
-
-<br>
-Late Day Policy
-: Each student has 5 free "late days".  Homeworks can be submitted at most two days late.  If you are out of late days, then you will not be able to get credit for subsequent late assignments. One "day" is defined as anytime between 1 second and 24 hours after the homework deadline. The intent of the late day policy it to allow you to take extra time due to unforseen circumstances like illnesses or family emergencies, and for forseeable interruptions like on campus interviewing and religious holidays.  You do not need to ask permission to use your late days.  No additional late days are granted. 
+#### Format
+- *Lectures* will include technical details about standard program analysis techniques and their applications to smart contracts.  
+- *Assignments* will be of one of the following types:
+	- develop, debug, test, deploy smart contracts
+	- manually expose various types of vulnerabilities in example smart contracts 
+	- use analysis tools (e.g., fuzzer, symbolic executor, static analyzer, program instrumenter), which are used widely in industry, to expose those vulnerabilities automatically
+- *Final project* will account for half of the course's total credit. It will be one of the following types:
+	- Develop and prototype a new technique for security analysis of smart contract
+	- Adapt existing technique from Web2.0 security to smart contracts and develop a prototype
+	- Develop an idea for a new application of program analysis for Web 3.0 (e.g., Web3 data analytics) and develop a prototype.
+	- Implement a specific (i.e., provided by instructors) established (i.e., non-researchy) technique/idea in the course's scope.
+- *Guest lectures* will be delivered by experts in academia, startups, and industry research labs. 
 
