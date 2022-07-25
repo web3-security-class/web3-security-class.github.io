@@ -1,12 +1,38 @@
 ---
-title: CIS 521 - Artificial Intelligence - University of Pennsylvania
+title: CIS 700 - Web3 Security - University of Pennsylvania
 layout: default
-img: HAL.png
-img_link: https://en.wikipedia.org/wiki/HAL_9000
-caption: I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do. 
+img: eth.png
+caption: Resources for Building on Ethereum
 active_tab: resources 
 ---
 
-# Python IDE
+# Resources 
+This page contains relevent links to tools, papers, and other useful resources.
 
-You can use whatever development environment you'd like.  We recommend [PyCharm](https://www.jetbrains.com/pycharm/).
+
+### 1. Introduction to Blockchain 
+
+##### Tools
+1. [Etherscan](https://etherscan.io/)
+
+##### Learning Resources
+1. [What is Ethereum](https://ethereum.org/en/what-is-ethereum/)
+
+
+### 2. Solidity Programming
+
+##### Tools
+1. **[Hardhat](https://hardhat.org/hardhat-runner/docs/getting-started#overview) - Recommended.** 
+2. [Remix IDE](https://remix.ethereum.org/)
+3. [Truffle](https://trufflesuite.com/)
+
+##### Learning Resources
+1. [Hardhat Tutorial](https://www.youtube.com/watch?v=9Qpi80dQsGU&ab_channel=EatTheBlocks)
+
+
+### 3. Vulnerabilities
+
+##### Tools
+
+##### Learning Resources
+
