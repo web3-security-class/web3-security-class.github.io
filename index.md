@@ -6,7 +6,7 @@ active_tab: main_page
 ---
 
 <div class="alert alert-info" markdown="1">
-This course will be capped at 30 students. We welcome a mix of undergrads, Masters, and PhD students. Please answer the waitlist questions to join.
+This course will be capped at 30 students. We welcome undergrads, Masters, and PhD students. Please answer the waitlist questions to join.
 </div>
 
 
@@ -90,6 +90,15 @@ Such applications, commonly called smart contracts, are programs stored and exec
 They hold the potential to streamline the management of digital assets in diverse use-cases with wide-ranging
 economic and societal ramifications, including auctions, financial contracts, elections, trading
 platforms, and permission management.
+
+
+**How can we make smart contracts more secure, bug free, and trustworthy?**  <br>
+In this course we will learn various techniques for program security and how they apply to the Web3.0 domain.
+The fundamentals of this course have roots in program analysis, testing, and formal verification. 
+The advent of Web3.0 provides an exciting new application for these techniques. 
+Smart contracts often hold funds and are frequent surfaces of attack. 
+The cost of a bug in the Web3.0 domain is often massive and difficult to revert. 
+In this course we will learn the foundations of program analysis while getting hands on experience in finding bugs and verifying correctness of smart contracts. 
 
 <br>
 Instructor
