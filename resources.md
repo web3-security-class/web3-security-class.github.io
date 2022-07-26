@@ -18,7 +18,14 @@ This page contains relevent links to tools, papers, and other useful resources.
 ##### Learning Resources
 1. [What is Ethereum](https://ethereum.org/en/what-is-ethereum/)
 2. [A Generational Shift in Technology: Remarks on Decentralized Computing by Dan Boneh (Stanford)](https://www.youtube.com/watch?v=x551k1YJdDY&ab_channel=DFINITY)
-
+3. [Cryptocurrencies and Blockchains: the Good, the Bad, and the Future with Dan Boneh](https://www.youtube.com/watch?v=4PHbjESHQME&ab_channel=StanfordAlumni)
+4. [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)
+5. [NSTIR Blockchain Technology Overview](https://csrc.nist.gov/CSRC/media/Publications/nistir/8202/draft/documents/nistir8202-draft.pdf)
+6. [Bitcoin Transaction Validation](https://www.youtube.com/watch?v=6AxStPyV8Vw&ab_channel=ComputerScience)
+7. [Ethereum Transactions](https://www.youtube.com/watch?v=SfFyeB0FsT8&ab_channel=thenewboston)
+8. [Ethereum Blockchain, Blocks, and Mining](https://www.youtube.com/watch?v=zQdoOrVXVSU&ab_channel=thenewboston)
+9. [Proof of Work vs. Proof of Stake Explained](https://www.youtube.com/watch?v=TcYdEAWch_4&ab_channel=thenewboston)
+10. [MIT OpenCourseware Blockchain and Money - Introduction](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/resources/session-1-introduction/)
 
 ### 2. Solidity Programming
 
