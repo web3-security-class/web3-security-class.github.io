@@ -53,4 +53,35 @@ You can download the materials for this assignment here:
 Homework 6: Static Analysis with Slither [100 points]
 =============================================================
 
+#### Learning Goals:
+Gain an...
+1. Ability to run and configurate a real static analysis tool to find bugs in smart contracts.
+2. Understanding of the limitations of slither and an understanding of the limitations of static analysis.
+3. Understanding of the benefits and utility of a static analysis tool.
+<br>
+
+#### Suggested Readings
+1. [Slither: A Static Analysis Framework For Smart Contracts](https://raw.githubusercontent.com/trailofbits/publications/master/papers/wetseb19.pdf)
+
+## Instructions
+For each of the deployed course smart contracts, attempt to find the vulnerability by running Slither. 
+Use your knowledge of the vulnerabilities from the previous homeworks.
+If Slither can't find the bug out of the box, don't give up! Attempt to edit the config file, or even transform the source of the smart contract.
+
+For each of the contracts, report the following:
+1. Did Slither find the bug? Y/N
+    - If Yes:
+        -  what was the time taken?
+    - If No, why not? Is this a limitation of the Slither tool or a fundamental limitation of static analysis? 
+
+2. List any modifications you made to the configuration or source, and report the effect.
+
+<br>
+### What to Submit 
+1. PDF or text file with the report detailed above.
+2. Answer the following short answer questions:  (Only 2-3 sentence response for each)
+    - Why are the benefits and limitations of static analysis for finding bugs in smart contracts?
+    - What bug oracles are used in Slither? What are some alternatives?
+    - Were traces provided for the bugs found? Give some comment on why or why not
+
 
