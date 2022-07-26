@@ -54,4 +54,20 @@ You can download the materials for this assignment here:
 Homework 5: Annotations and Instrumentation with Scribble [100 points]
 =============================================================
 
+#### Learning Goals:
+Gain a...
+1. Ability to run and configurate a real symbolic execution engine to find bugs in smart contracts.
+2. Hands on experience with program instrumentation 
+3. Understanding of the Scribble annotation language
+4. Ability to create program transformations using the `solc-typed-ast` library
+<br>
 
+#### Suggested Readings
+1. [Scribble Specification Language](https://docs.scribble.codes/language/introduction)
+2. [Automated Whitebox Fuzz Testing](https://patricegodefroid.github.io/public_psfiles/ndss2008.pdf)
+
+#### Useful Links
+1. [solc-typed-ast Documentation](https://consensys.github.io/solc-typed-ast/modules.html)
+
+## Instructions
+TBD..

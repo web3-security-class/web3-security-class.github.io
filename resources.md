@@ -36,6 +36,7 @@ This page contains relevent links to tools, papers, and other useful resources.
 ### 3. Vulnerabilities
 
 ##### Tools
+1. [Ethernaut](https://ethernaut.openzeppelin.com/)
 
 ##### Learning Resources
 1. [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
@@ -59,3 +60,11 @@ This page contains relevent links to tools, papers, and other useful resources.
 
 ##### Learning Resources
 1. [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf)
+
+### 5. Program Instrumentation 
+
+##### Tools
+1. [solc-typed-ast](https://consensys.github.io/solc-typed-ast/modules.html)
+
+##### Learning Resources
+
