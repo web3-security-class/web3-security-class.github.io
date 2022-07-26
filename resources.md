@@ -61,7 +61,7 @@ This page contains relevent links to tools, papers, and other useful resources.
 ##### Learning Resources
 1. [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf)
 
-### 5. Program Instrumentation 
+### 6. Program Instrumentation 
 
 ##### Tools
 1. [solc-typed-ast](https://consensys.github.io/solc-typed-ast/modules.html)
