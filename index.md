@@ -109,7 +109,7 @@ In this course we will learn the foundations of program analysis while getting h
 - Mathematical foundations: maturity to read and understand research papers.
 
 #### Format
-- *Lectures* will include technical details about standard program analysis techniques and their applications to smart contracts.  
+- *Lectures* will include technical details about various program analysis techniques and their applications to smart contracts.  
 - *Assignments* will be of one of the following types:
 	- Develop, debug, test, and deploy smart contracts.
 	- Manually expose various types of vulnerabilities in example smart contracts.
