@@ -51,8 +51,15 @@ You can download the materials for this assignment here:
 Homework 0: Mint a Course NFT [100 points]
 =============================================================
 
+In this assignment, you will create your own Ethereum account and wallet.
+You will also learn to interact with a smart contract deployed on Ethereum's Rinkeby test network. 
 
-In this assignment, you will learn to interact with a smart contract deployed on Ethereum's Rinkeby test network. 
+#### Learning Goals:
+In this assignment you will learn..
+1. The basics of ethereum accounts and wallets
+2. How to get test ETH from a faucet
+3. How to interact with our existing deployed course smart contract
+4. The basics of ethereum transactions
 
 <br>
 #### Resources
@@ -61,6 +68,7 @@ In this assignment, you will learn to interact with a smart contract deployed on
 2. [Ethereum Transaction Documentation](https://ethereum.org/en/developers/docs/transactions/)
 3. [Ethereum Whitepaper](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf)
 
+{% comment %}
 <br>
 #### Background: Ethereum Accounts
 
@@ -76,14 +84,14 @@ Both externally owned accounts and smart contracts have the ability to interact 
 
 <br>
 <br>
+{% endcomment %}
 
 ## Instructions
-
+Under construction...
 
 ### 1. Setting up your Ethereum wallet
-
 A wallet is a interface that allows you to interact with your Ethereum account.
-More instructions upcoming..
+The first step in this assignment is to create a [MetaMask](https://metamask.io/) wallet and account. 
 
 {% comment %}
 
@@ -97,32 +105,8 @@ https://ethereum.org/en/wallets/find-wallet/
 
 {% endcomment %}
 
-<br>
-<br>
-
 ### 2. Get some Test ETH!
-{% comment %}
-
-[instructions here]
-
-{% endcomment %}
-
-<br>
-<br>
-
+Head over to a [Test ETH faucet](https://rinkebyfaucet.com/) and transfer some funds to your wallet.
 
 ### 3. Send a transaction to mint a course NFT
 Now that you have an account with some test ETH, and a wallet to manage your account, you are ready to "buy" a course enrollment NFT.
-<br>
-<br>
-
-
-#### Background: Transactions
-> "An Ethereum transaction refers to an action initiated by an externally-owned account"
-
-Transactions change the state of the EVM. 
-More on lifecycle of a transaction upcoming...
-
-
-
-
