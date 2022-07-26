@@ -100,14 +100,6 @@ Smart contracts often hold funds and are frequent surfaces of attack.
 The cost of a bug in the Web3.0 domain is often massive and difficult to revert. 
 In this course we will learn the foundations of program analysis while getting hands on experience in finding bugs and verifying correctness of smart contracts. 
 
-<br>
-Instructor
-: [Mayur Naik](https://www.cis.upenn.edu/~mhnaik/)
-
-Teaching Assistants
-: [Elizabeth Dinella](https://www.seas.upenn.edu/~edinella/)
-: [Vikramaditya Singh](https://www.linkedin.com/in/vikramaditya-s)
-
 #### Format
 - *Lectures* will include technical details about standard program analysis techniques and their applications to smart contracts.  
 - *Assignments* will be of one of the following types:
