@@ -111,9 +111,9 @@ In this course we will learn the foundations of program analysis while getting h
 #### Format
 - *Lectures* will include technical details about standard program analysis techniques and their applications to smart contracts.  
 - *Assignments* will be of one of the following types:
-	- develop, debug, test, and deploy smart contracts.
-	- manually expose various types of vulnerabilities in example smart contracts.
-	- use analysis tools (e.g., fuzzer, symbolic executor, static analyzer, instrumenter), which are used widely in industry, to expose those vulnerabilities automatically.
+	- Develop, debug, test, and deploy smart contracts.
+	- Manually expose various types of vulnerabilities in example smart contracts.
+	- Use pratical analysis tools to expose those vulnerabilities automatically.
 - *Final project* will account for half of the course's total credit. It will be one of the following types:
 	- Implement a specific (i.e., provided by instructors) established technique/idea in the course's scope.
 	- Adapt an existing technique from Web2.0 security to smart contracts and develop a prototype.
